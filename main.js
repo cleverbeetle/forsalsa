@@ -4,7 +4,7 @@ function clicks() {
     $('#div2').addClass("fadeinv2");
         
     var typed = new Typed('.katakata', {
-        strings: ["Aku mau ngucapin", "Selamat Ulang Tahun ya Sayang", "Semoga ditahun ini kamu ga nginep lagi di rumah sakit", "I Love You Annisa Aulia"],
+        strings: ["Semangat ya kerjanya", "Jangan dijadiin beban kedirimu", "Apa yang akan terjadi besok", "itu tetap rahasia tuhan","tugasmu hanyalah bersyukur dihari ini", "jangan terlalu stress ya", "hubungi aku kalau ada apa-apa ya", "I Love You Salsa"],
         typeSpeed: 70
     });
 }
